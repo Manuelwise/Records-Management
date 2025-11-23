@@ -62,4 +62,4 @@ Create `.env` files in both frontend and backend directories with the necessary 
 
 ## Contributing
 
-Please read our contribution guidelines before submitting pull requests.
+Please request to do so before submitting pull requests.
