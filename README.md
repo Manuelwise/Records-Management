@@ -1,4 +1,4 @@
-# Archive Project
+# Records Management System
 
 A comprehensive digital archiving system for managing and accessing records efficiently.
 
